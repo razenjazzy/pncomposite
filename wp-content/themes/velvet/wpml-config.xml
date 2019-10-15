@@ -1,0 +1,25 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">portfolio</custom-type>
+    <custom-type translate="1">service</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">portfolio-type</taxonomy>
+    <taxonomy translate="1">portfolio-tag</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="copy">hippo_post_views_count</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="widget_hippo_latest_tweet">
+      <key name="2">
+        <key name="title"/>
+      </key>
+    </key>
+    <key name="hippo_theme_option">
+      <key name="blog-title"/>
+      <key name="related-post-heading"/>
+      <key name="footer-copyright"/>
+    </key>
+  </admin-texts>
+</wpml-config>

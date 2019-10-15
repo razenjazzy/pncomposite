@@ -1,0 +1,14 @@
+[07-Nov-2018 22:07:30 UTC] PHP Warning:  require_once(/home4/dccket/public_html/pncompositetest/wp-content/plugins/jetpack/_inc/lib/class.media.php): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/jetpack/class.jetpack.php on line 25
+[07-Nov-2018 22:07:30 UTC] PHP Fatal error:  require_once(): Failed opening required '/home4/dccket/public_html/pncompositetest/wp-content/plugins/jetpack/_inc/lib/class.media.php' (include_path='.:/opt/php55/lib/php') in /home4/dccket/public_html/pncompositetest/wp-content/plugins/jetpack/class.jetpack.php on line 25
+[07-Nov-2018 22:07:30 UTC] PHP Fatal error:  Call to undefined function is_user_logged_in() in /home4/dccket/public_html/pncompositetest/wp-content/mu-plugins/endurance-page-cache.php on line 370
+[01-Dec-2018 03:44:02 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ')' in /home4/dccket/public_html/pncompositetest/wp-content/plugins/mojo-marketplace-wp-plugin/inc/cli-init.php on line 25
+[01-Dec-2018 03:44:02 UTC] PHP Fatal error:  Call to undefined function is_user_logged_in() in /home4/dccket/public_html/pncompositetest/wp-content/mu-plugins/endurance-page-cache.php on line 457
+[01-Dec-2018 04:53:00 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ')' in /home4/dccket/public_html/pncompositetest/wp-content/plugins/mojo-marketplace-wp-plugin/inc/cli-init.php on line 25
+[01-Dec-2018 04:53:00 UTC] PHP Fatal error:  Call to undefined function is_user_logged_in() in /home4/dccket/public_html/pncompositetest/wp-content/mu-plugins/endurance-page-cache.php on line 457
+[01-Dec-2018 16:59:59 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ')' in /home4/dccket/public_html/pncompositetest/wp-content/plugins/mojo-marketplace-wp-plugin/inc/cli-init.php on line 25
+[18-Dec-2018 10:27:50 UTC] Aq_Resize.process() error: Image must be local: http://golpocom.com/pncompositetest/wp-includes/images/media/default.png
+[12-Jan-2019 10:41:50 UTC] Aq_Resize.process() error: Image must be local: https://golpocom.com/pncompositetest/wp-includes/images/media/default.png
+[12-Jan-2019 10:41:50 UTC] Aq_Resize.process() error: Image must be local: https://golpocom.com/pncompositetest/wp-includes/images/media/default.png
+[12-Jan-2019 10:44:22 UTC] Aq_Resize.process() error: Image must be local: https://golpocom.com/pncompositetest/wp-includes/images/media/default.png
+[14-Jan-2019 06:52:46 UTC] Aq_Resize.process() error: Image must be local: https://golpocom.com/pncompositetest/wp-includes/images/media/default.png
+[14-Jan-2019 06:54:22 UTC] Aq_Resize.process() error: Image must be local: https://golpocom.com/pncompositetest/wp-includes/images/media/default.png

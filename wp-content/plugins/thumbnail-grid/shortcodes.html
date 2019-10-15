@@ -1,0 +1,203 @@
+<div id="sfly-shortcodes" style="max-width:100%;margin:0 25px;padding:0 25px;overflow-wrap:break-word;white-space:normal;">
+<p>This plugin is not designed to show several pages of thumbnails, you must install the paging extension for that.  It is designed to allow you to embed thumbnails into any page or widget, or to display a subset of thumbnails on a page or a widget.</p>
+<p>To show more thumbnails on a page than the default value <i><b>Blog pages show at most</b></i>, use a fixed value for posts_per_page or try setting the posts_per_page value to &#8216;999&#8217;.</p>
+<p>You can view or modify <i><b>Blog pages show at most in the Reading Section of your WordPress Settings</b></i></p>
+<p><a href="settings.gif"><img class="alignnone size-full wp-image-275" src="http://www.shooflysolutions.com/wp-content/uploads/2013/11/settings.gif" alt="settings" width="603" height="408" /></a></p>
+<p>Your theme must be <a href="http://codex.wordpress.org/Post_Thumbnails" target="_blank">enabled for post thumbnails.</a></p>
+<h3>POSTS &amp; PAGES</h3>
+<p>You can use many of the parameters listed in the wordpress codex.<br />
+<a href="http://codex.wordpress.org/Template_Tags/get_posts" target="_blank">Click here to see the WordPress Codex for Posts</a></p>
+<p>Here are some of the most common parameters:</p>
+<p>cat = (*Use cat instead of category for posts if category does not work) category id. To view the category id, go to your post categories, edit the category and look in the browser address bar for the category id. If you don&#8217;t see it, click your mouse in the address bar.<br />
+It should look something like this. The category id is 7:</p>
+<blockquote><p>http://[YOUR SITE GOES HERE]/wp-admin/edit-tags.php?action=edit&amp;taxonomy=category&amp;<mark>tag_ID=<b><i>7</i></b></mark>&amp;post_type=post</p></blockquote>
+<p><strong><u>posts_per_page</u></strong> &#8211; the number of posts to display (does not include sticky posts). The default is -1. <i>This causes the post count to default to the value in <strong>Blog pages show at most</strong></i>.</p>
+<p><span style="text-decoration: underline;"><strong>ignore_sticky_posts</strong></span> &#8211; ignore sticky posts. According to the codex, when this is not set, sticky posts will be loaded first and will not be included in the posts per page. If you have two sticky posts and posts_per_page = 10, 12 thumbnails will be displayed.</p>
+<p><strong><u>post_type</u></strong> &#8211; the type of posts to display. The default is &#8216;post&#8221;.  Enter any type that supports thumbnails. Obviously, you want to have featured images set for all of the posts that you are displaying in this grid. You can use &#8216;page&#8217; here if your theme <a href="http://www.sitepoint.com/how-to-add-featured-image-thumbnails-to-your-wordpress-theme/" target="_blank">supports thumbnails</a> on pages. You can enter custom post types, like &#8216;events&#8217; in this section too.</p>
+<p><strong><u>orderby</u></strong> &#8211; Sort retrieved posts by parameter. The default is none.</p>
+<p><strong><u>order</u></strong> &#8211; &#8216;DESC&#8217; or &#8216;ASC&#8217;</p>
+<p>[thumbnailgrid cat='1' posts_per_page='5' post_type='post' order_by='author' order='ASC']<br />
+Will display the thumbnails for the 5 most recent posts from the category with the id of 1 sorted by the author name in ascending order</p>
+<p>[thumbnailgrid]<br />
+<p>Most properties can be set in the style sheet or in the custom CSS module for your theme. The following settings are shortcode settings that apply to individual grids. Note that for width and height values you may use any valid unit of height: px, cm, %, etc. <span class="tbgrd_help">Note: Media Image sizes are configured in the wordpress admin panel under Settings/Media. The default thumbnail size is 150px by 150px. The style sheet is configured to handle the default thumbnail size. To properly display your images, you must modify the height and witdth in the thumbanil shortcode or the style sheet.</span>
+</p>
+<p>
+Many of the parameters available in the <a href="https://codex.wordpress.org/Class_Reference/WP_Query#Parameters" target="_blank">Wordpress Codex</a> can be used in the shortcode, with a few exceptions.
+</p>
+<h2>Default Settings as of version 6.0</h2>
+<div class="tbgrd section">All settings default to empty, null or false except for the following (be aware that this may have changed from previous versions)</div>
+<div class="tbgrd section"></div>
+<div class="tbgrd section">post_type='post'<br>
+showcaption = true<br>
+imagesize ='thumbnail'<br>
+'posts_per_page' = -1
+
+</div>
+
+<h3>link_title (<span style="color: red;">New)</span></h3>
+<p class="tbgrd_hel_text">This new setting allows you to change the title that shows up when you hover over an image to the caption or alternate text of the image - This value defaults to the post title</p>
+
+<ul>
+ 	<li>imagecaption</li>
+ 	<li>imagealt</li>
+</ul>
+<p class="tbgrd_help_text">[thumbnailgrid link_title="imagecaption"]]</p>
+
+<h2>Grid Settings:</h2>
+<div class="tbgrd_section">
+
+<h3>gridwidth</h3>
+<p class="tbgrd_help_text">The width of the grid. this value defaults to the width of the grid area or to the setting in the style sheet.</p>
+<h3>maxgridwidth - as of ver. 5.3</h3>
+<p class="tbgrd_help_text">Use max width instead of width with align to wrap the grid when the window resizes.</p>
+
+</div>
+<h3>aligngrid</h3>
+<p class="tbgrd_help_text">When the gridwidth value is set, set this value to left, right, center or autocenter (as of version 5.3). center may not work in all themes. autocenter uses jQuery to center the grid instead.</p>
+
+<p class="tbgrd_help_text">[thumbnailgrid maxgridwidth="700px" post_type="post" aligngrid="left" posts_per_page = "3" cat="41"]</p>
+
+<p class="tbgrd_help_text">[thumbnailgrid maxgridwidth="700px" aligngrid="right" post_type="post" posts_per_page = "3" cat="41"]</p>
+
+<p class="tbgrd_help_text">[thumbnailgrid maxgridwidth="700px" aligngrid=""center" post_type="post" posts_per_page = "3" cat="41"]</p>
+
+<p class="tbgrd_help_text">[thumbnailgrid aligngrid="autocenter" cat="41" post_type="post" ]</p>
+
+<div class="tbgrd_section">
+<h2>Captions:</h2>
+<h3>showcaption</h3>
+<p class="tbgrd_help_text">Set showcaption=FALSE to hide the captions showcaption defaults to TRUE</p>
+
+<p class="tbgrd_help_text">[thumbnailgrid showcaption=FALSE posts_per_page = "3" post_type="post" cat="41"]</p>
+
+</div>
+<div class="tbgrd_section">
+
+<h3>captionheight</h3>
+<p class="tbgrd_help_text">This value sets the caption height and hides the overflow (if there is more text than can fit into the caption area, it will not be visible). The display defaults to one line of text or the value in the style sheet.</p>
+
+</div>
+<div class="tbgrd_section">
+<h3>wraptext</h3>
+<p class="tbgrd_help_text">Wrap the text in the caption. Normally the text is limited to one line and overflow is indicated by an elipses. Please note that, to avoid a misaligned grid, you should set a caption height when wrapping text in a grid that has more than one row. wraptext defaults to FALSE</p>
+<p class="tbgrd_help_text">[thumbnailgrid wraptext=TRUE captionheight="50px" posts_per_page = "3" post_type="post" cat="41"]</p>
+
+<h3>captionwidth</h3>
+<p class="tbgrd_help_text">The caption width. This value defaults to the width variable above or to the setting in the style sheet.</p>
+[thumbnailgrid wraptext=TRUE captionwidth="5px" ]</p>
+
+</div>
+
+<div class="tbgrd_section">
+
+<h2>Thumbnail:</h2>
+
+<h3>has_image (as of version 6.0)</h3>
+
+<p>When set to true, only thumbnails with images will be displayed in the grid
+</p>
+<p>
+[thumbnailgrid has_image=true]
+</p>
+
+
+<h3>height</h3>
+<p class="tbgrd_help_text">The height of thumbnail image. This value defaults to the height of the thumbnail or the setting in the style sheet.</p>
+<h3>width</h3>
+
+</div>
+<div class="tbgrd_section">
+<p class="tbgrd_help_text">The width of the thumbnail image. This value defaults to the width of the thumbnail or the setting in the style sheet. To display an image proportionately, set this value to 'auto';</p>
+
+<p class="tbgrd_help_text">[thumbnailgrid width="25px" height="25px" posts_per_page="3" post_type="post" cat="41"]</p>
+<p class="tbgrd_help_text">If you have images of different sizes, use a fixed height and set the width to auto to display your thumbnails proportionately.</p>
+
+<h3>imagesize</h3>
+<p class="tbgrd_help_text">[thumbnailgrid cat="41" posts_per_page="3" imagesize="medium" height="100px" post_type="post" width="auto"]</p>
+
+</div>
+<div class="tbgrd_section">
+<p class="tbgrd_help_text">Media Image sizes are configured in the wordpress admin panel under Settings/Media. You can use any size in the plugin. The default value is 'thumb'. thumb thumbnail medium large post-thumbnail.</p>
+<p class="tbgrd_help_text">If you wish, you can display the posts at the appropriate size for the image.</p>
+
+<p class="tbgrd_help_text">[thumbnailgrid cat="41" posts_per_page="3" post_type="post" imagesize="medium" height="200px" width="200px"]</p>
+<h2>Posts:</h2>
+<p class="tbgrd_help_text">Reminder: A page is a type of post. Use <a title="Type Parameters" href="https://codex.wordpress.org/Class_Reference/WP_Query#Type_Parameters" target="_blank">post_type</a> to display thumbnails for pages or for custom posts.</p>
+
+<p class="tbgrd_help_text">You can use the following parameters to restrict posts. All of these parameters take a comma delimited list of post (or page) id's except for the tag_slug parameters.</p>
+
+</div>
+<p></p>
+<h3>author__in</h3>
+[thumbnailgrid post_type="post" author__in="20" ]
+<h3>author__not_in (Not currently working)</h3>
+<!--
+<blockquote>thumbnailgrid post_type="post" author__not_in="5, 20"</blockquote>
+[thumbnailgrid post_type="post" author__not_in="5, 20"] -->
+<p></p>
+<h3>category__and</h3>
+[thumbnailgrid post_type="post" category__and="41, 142"]
+<p></p>
+<h3>category__in</h3>
+[thumbnailgrid post_type="post" category__in="41, 143"]
+<p></p>
+<h3>category__not_in (Available in version 5.4 and up)</h3>
+[thumbnailgrid post_type="post" has_thumbnails='TRUE' category__not_in=" 142, 143,144"]
+<p></p>
+<h3>tag__and</h3>
+[thumbnailgrid post_type="post" tag__and="62, 45"]
+<p></p>
+<h3>tag__in</h3>
+[thumbnailgrid tag__in="62, 45, 46"]
+<p></p>
+<h3>tag__not_in (Available in version 5.4 &amp; up)</h3>
+[thumbnailgrid post_type="post"  tag__not_in="62, 45, 46, 145, 147" has_thumbnails='TRUE' ]
+<p></p>
+<h3>tag_slug__and (available in version 5 &amp; up)</h3>
+[thumbnailgrid post_type="post" tag_slug__and="hac, gravida"]
+<p></p>
+<p></p>
+<h3>tag_slug__in <tt>(available in version 5 &amp; up)</tt></h3>
+[thumbnailgrid post_type="post" tag_slug__in="hac, gravida, semper"]
+<p></p>
+<h3>post_parent__in <tt>(available in version 5 &amp; up)</tt></h3>
+<p></p>
+[thumbnailgrid post_type="page" post_parent__in="208"]
+<p></p>
+<h3>post_parent__not_in <tt>(available in version 5 &amp; up)</tt></h3>
+<p></p>
+[thumbnailgrid post_type="page" cat="41" post_parent__not_in="208" has_thumbnails='TRUE']
+<p></p>
+<h3>post__in <tt>(available in version 5 &amp; up)</tt></h3>
+<p></p>
+[thumbnailgrid post__in="169,146"]
+<p></p>
+<h3>post__not_in <tt>(available in version 5.4 &amp; up)</tt></h3>
+[thumbnailgrid post__not_in="144, 169,146,790" has_thumbnails='TRUE']
+<p></p>
+<h2>Dates:</h2>
+<p></p>
+
+<h3>day, month, year</h3>
+<p>
+[thumbnailgrid month="11" year="2014" day="30" has_thumbnails='TRUE']</p>
+<h3>before, after, inclusive </h3>
+<p>Set a date range using before &amp; after. Set inclusive = true to include before &amp; after in the query.
+</p>
+<bp>[thumbnailgrid before="December 30, 2014" inclusive=true has_thumbnails=true]
+<br>[thumbnailgrid after="November 29, 2014"  has_thumbnails=true]
+<br>[thumbnailgrid before="December 1, 2015" after="January 1, 2014" has_thumbnails=true]
+<p>You may also use "today" in place of the date. (Version 5.0 &amp; up)
+</p>
+
+<p>[thumbnailgrid before="today" inclusive=true has_thumbnails=true]
+</p>
+<h2> Other:</h2>
+<h3>debug_query, debug</h3>
+
+<p>Setting debug_query to true can be used by advanced users to diagnose the query generated by this shortcode or for support purposes.
+</p>
+<p>[thumbnailgrid debug_query=true has_thumbnails=true]
+</p>
+</div>
+&nbsp;

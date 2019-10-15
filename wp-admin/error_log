@@ -1,0 +1,294 @@
+[03-Nov-2018 23:23:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[03-Nov-2018 23:25:03 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/dccket/public_html/pncompositetest/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[03-Nov-2018 23:25:12 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/dccket/public_html/pncompositetest/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[03-Nov-2018 23:25:22 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/dccket/public_html/pncompositetest/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[03-Nov-2018 23:25:32 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/dccket/public_html/pncompositetest/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[03-Nov-2018 23:25:43 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/dccket/public_html/pncompositetest/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[03-Nov-2018 23:25:54 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/dccket/public_html/pncompositetest/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[03-Nov-2018 23:26:17 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/dccket/public_html/pncompositetest/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[03-Nov-2018 23:31:26 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/dccket/public_html/pncompositetest/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[03-Nov-2018 23:32:12 UTC] PHP Fatal error:  Class 'Hippo_Widget_Import' not found in /home4/dccket/public_html/pncompositetest/wp-content/themes/velvet/setup-wizard/index.php on line 1154
+[03-Nov-2018 23:32:14 UTC] PHP Fatal error:  Class 'Hippo_RedixThemeOption_Import' not found in /home4/dccket/public_html/pncompositetest/wp-content/themes/velvet/setup-wizard/index.php on line 1138
+[03-Nov-2018 23:32:19 UTC] PHP Warning:  Missing argument 2 for apply_filters(), called in /home4/dccket/public_html/pncompositetest/wp-content/themes/velvet/setup-wizard/index.php on line 1126 and defined in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 176
+[03-Nov-2018 23:32:19 UTC] PHP Fatal error:  Class 'Hippo_Rev_Slider_Import' not found in /home4/dccket/public_html/pncompositetest/wp-content/themes/velvet/setup-wizard/index.php on line 1127
+[03-Nov-2018 23:39:18 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/dccket/public_html/pncompositetest/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[03-Nov-2018 23:40:09 UTC] PHP Warning:  Missing argument 2 for apply_filters(), called in /home4/dccket/public_html/pncompositetest/wp-content/themes/velvet/setup-wizard/index.php on line 1126 and defined in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 176
+[03-Nov-2018 23:40:10 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, object given in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/slider.class.php on line 1059
+[03-Nov-2018 23:40:10 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/slider.class.php on line 1888
+[03-Nov-2018 23:42:23 UTC] PHP Warning:  Missing argument 2 for apply_filters(), called in /home4/dccket/public_html/pncompositetest/wp-content/themes/velvet/setup-wizard/index.php on line 1126 and defined in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 176
+[03-Nov-2018 23:42:23 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, object given in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/slider.class.php on line 1059
+[03-Nov-2018 23:42:23 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/slider.class.php on line 1888
+[03-Nov-2018 23:51:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[03-Nov-2018 23:53:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 00:18:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 00:28:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 00:30:44 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/beach_houses.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[04-Nov-2018 00:30:45 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/relax_hammock.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[04-Nov-2018 00:30:46 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/object_dvd_1.png): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[04-Nov-2018 00:30:46 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/forest_road_2.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[04-Nov-2018 00:30:47 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/object_pen_1.png): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[04-Nov-2018 00:30:47 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/object_plant_1.png): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[04-Nov-2018 00:40:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 01:08:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 01:10:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 01:23:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 01:39:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 01:48:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 01:53:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 01:58:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 02:07:46 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/dccket/public_html/pncompositetest/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[04-Nov-2018 02:08:12 UTC] PHP Warning:  sprintf(): Too few arguments in /home4/dccket/public_html/pncompositetest/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[04-Nov-2018 20:07:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 21:01:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 21:03:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 21:14:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 21:24:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 21:31:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 21:46:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 22:12:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 22:25:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 22:57:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 23:41:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 23:42:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 23:48:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 23:53:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Nov-2018 23:57:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[05-Nov-2018 00:08:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[05-Nov-2018 00:15:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[05-Nov-2018 00:32:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[05-Nov-2018 00:49:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[05-Nov-2018 00:53:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[05-Nov-2018 00:56:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[05-Nov-2018 00:59:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[05-Nov-2018 02:28:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[05-Nov-2018 02:31:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[11-Nov-2018 19:17:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[11-Nov-2018 19:23:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[11-Nov-2018 19:23:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[11-Nov-2018 19:26:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[11-Nov-2018 19:36:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[11-Nov-2018 19:57:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[11-Nov-2018 20:19:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[11-Nov-2018 20:22:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[11-Nov-2018 22:41:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[11-Nov-2018 22:53:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[11-Nov-2018 23:11:17 UTC] PHP Warning:  Missing argument 2 for apply_filters(), called in /home4/dccket/public_html/pncompositetest/wp-content/themes/velvet/setup-wizard/index.php on line 1126 and defined in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 176
+[11-Nov-2018 23:11:21 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, object given in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/slider.class.php on line 1059
+[11-Nov-2018 23:11:21 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/slider.class.php on line 1888
+[11-Nov-2018 23:20:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[11-Nov-2018 23:23:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[11-Nov-2018 23:39:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[12-Nov-2018 20:05:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[28-Nov-2018 12:28:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[28-Nov-2018 12:54:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[28-Nov-2018 13:28:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[29-Nov-2018 04:45:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[29-Nov-2018 04:52:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[29-Nov-2018 04:59:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[29-Nov-2018 10:35:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[29-Nov-2018 10:53:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[29-Nov-2018 10:58:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[29-Nov-2018 11:00:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[29-Nov-2018 11:01:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[29-Nov-2018 11:03:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[29-Nov-2018 11:17:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[29-Nov-2018 11:19:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[29-Nov-2018 12:19:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[02-Dec-2018 08:53:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[02-Dec-2018 09:01:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[02-Dec-2018 09:14:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[02-Dec-2018 09:26:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[02-Dec-2018 11:11:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[02-Dec-2018 11:12:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[02-Dec-2018 11:15:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[03-Dec-2018 09:52:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[03-Dec-2018 10:04:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[03-Dec-2018 10:44:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[03-Dec-2018 11:09:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[03-Dec-2018 16:04:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[03-Dec-2018 16:05:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[03-Dec-2018 16:08:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[03-Dec-2018 16:10:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[03-Dec-2018 16:17:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[03-Dec-2018 16:18:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[03-Dec-2018 16:18:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[03-Dec-2018 16:19:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[03-Dec-2018 16:20:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[03-Dec-2018 16:21:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[03-Dec-2018 16:24:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[03-Dec-2018 16:34:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[03-Dec-2018 18:49:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Dec-2018 08:46:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Dec-2018 09:11:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Dec-2018 09:28:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Dec-2018 09:33:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Dec-2018 11:02:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Dec-2018 11:11:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Dec-2018 11:45:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Dec-2018 11:57:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Dec-2018 12:02:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Dec-2018 12:22:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Dec-2018 12:25:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Dec-2018 12:35:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[04-Dec-2018 12:43:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[05-Dec-2018 05:13:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[05-Dec-2018 05:17:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/framework/cssparser.class.php on line 152
+[05-Dec-2018 05:45:05 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/mountain_view_6.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[05-Dec-2018 05:45:06 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/stylish_apartment.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[05-Dec-2018 05:45:06 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/hipster_coffee_house.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[05-Dec-2018 05:45:07 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/clean_desk.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[05-Dec-2018 05:45:08 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/corn_field.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[05-Dec-2018 05:45:08 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/desert.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[05-Dec-2018 05:45:09 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/greens_street.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[05-Dec-2018 05:45:10 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/blurry_beach.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[05-Dec-2018 05:45:10 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/laptop.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[05-Dec-2018 05:45:11 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/mountain_view_5.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[05-Dec-2018 05:45:12 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/grand_canyon.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[05-Dec-2018 05:45:12 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/landscape_clouds.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[05-Dec-2018 05:45:13 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/beach_water.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[05-Dec-2018 05:45:14 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/highway_night.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[05-Dec-2018 05:45:14 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/woman_beach.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[05-Dec-2018 05:45:15 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/cool_guy.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[05-Dec-2018 05:45:15 UTC] PHP Warning:  getimagesize(/home4/dccket/public_html/pncompositetest/wp-content/uploads/revslider/objects/beach_sea.jpg): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[11-Dec-2018 13:11:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[20-Dec-2018 10:37:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[24-Dec-2018 10:47:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[24-Dec-2018 11:05:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[24-Dec-2018 11:06:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[24-Dec-2018 11:13:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[24-Dec-2018 12:37:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[24-Dec-2018 12:41:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[24-Dec-2018 13:02:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[26-Dec-2018 12:12:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[26-Dec-2018 18:46:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/framework/cssparser.class.php on line 152
+[27-Dec-2018 06:47:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[27-Dec-2018 06:49:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[27-Dec-2018 06:50:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[02-Jan-2019 07:53:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[02-Jan-2019 07:57:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[02-Jan-2019 08:39:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[02-Jan-2019 08:41:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[02-Jan-2019 08:42:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Jan-2019 10:53:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[10-Jan-2019 12:40:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[10-Jan-2019 12:45:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[12-Jan-2019 06:08:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[12-Jan-2019 07:20:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[12-Jan-2019 08:04:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[12-Jan-2019 10:35:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[12-Jan-2019 11:53:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[12-Jan-2019 12:00:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[12-Jan-2019 12:00:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[13-Jan-2019 10:48:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/framework/cssparser.class.php on line 152
+[14-Jan-2019 10:20:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/revslider/includes/framework/cssparser.class.php on line 152
+[14-Jan-2019 13:14:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[17-Jan-2019 14:20:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[21-Jan-2019 11:53:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[22-Jan-2019 15:07:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[26-Jan-2019 07:28:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[26-Jan-2019 07:33:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[31-Jan-2019 05:35:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[31-Jan-2019 05:55:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[31-Jan-2019 06:13:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 06:35:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 06:49:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 06:52:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 06:54:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 06:56:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 07:02:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 07:03:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 07:05:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 07:13:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 07:17:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 07:32:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 08:09:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 08:17:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 08:18:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 08:21:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 08:24:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/dccket/public_html/pncompositetest/wp-includes/class-wp-image-editor.php on line 402
+[03-Feb-2019 08:33:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 08:39:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 08:41:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 08:51:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 09:29:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 09:33:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 09:34:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 09:56:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 10:13:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 10:18:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 11:08:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 11:12:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 11:15:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 11:17:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 11:19:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 11:56:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 11:58:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 12:00:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 12:02:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 12:04:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[03-Feb-2019 12:04:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[04-Feb-2019 05:27:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[04-Feb-2019 05:39:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[04-Feb-2019 05:41:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[04-Feb-2019 05:46:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[04-Feb-2019 06:15:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[04-Feb-2019 06:16:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/dccket/public_html/pncompositetest/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[24-Apr-2019 06:08:35 UTC] PHP Warning:  require_once(/home4/dccket/public_html/pncompositetest/wp-content/plugins/wpforms-lite/includes/admin/class-review.php): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-content/plugins/wpforms-lite/src/WPForms.php on line 226
+[24-Apr-2019 06:08:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/home4/dccket/public_html/pncompositetest/wp-content/plugins/wpforms-lite/includes/admin/class-review.php' (include_path='.:/opt/php55/lib/php') in /home4/dccket/public_html/pncompositetest/wp-content/plugins/wpforms-lite/src/WPForms.php on line 226
+[13-May-2019 09:37:36 UTC] PHP Warning:  include_once(/home4/dccket/public_html/pncompositetest/wp-content/plugins/ecommerce-product-catalog/ecommerce-product-catalog.php): failed to open stream: No such file or directory in /home4/dccket/public_html/pncompositetest/wp-settings.php on line 342
+[13-May-2019 09:37:36 UTC] PHP Warning:  include_once(): Failed opening '/home4/dccket/public_html/pncompositetest/wp-content/plugins/ecommerce-product-catalog/ecommerce-product-catalog.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/dccket/public_html/pncompositetest/wp-settings.php on line 342
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:36 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:37 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:37 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:37 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:37 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:37 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:37 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:37 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:37 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:37 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:37 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:37 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:37 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:37 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:37 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674
+[13-May-2019 09:37:37 UTC] PHP Warning:  strpos(): Empty needle in /home4/dccket/public_html/pncompositetest/wp-includes/plugin.php on line 674

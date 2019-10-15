@@ -1,0 +1,50 @@
+// Ratio List
+
+@minor-second : 1.067;
+@major-second : 1.125;
+@minor-third : 1.2;
+@major-third : 1.25;
+@perfect-fourth : 1.333;
+@augmented-fourth : 1.414;
+@perfect-fifth : 1.5;
+@minor-sixth : 1.6;
+@golden : 1.618;
+@major-sixth : 1.667;
+@minor-seventh : 1.778;
+@major-seventh : 1.875;
+@octave : 2;
+@major-tenth : 2.5;
+@major-eleventh : 2.667;
+@major-twelfth : 3;
+@double-octave : 4;
+
+// Default Values
+@modular-scale-base-size : 16px;
+@modular-scale-ratio : @major-second;
+@modular-scale-unit : rem;
+
+///**
+// * Check:
+// * - http://www.modularscale.com/
+// * - http://type-scale.com/
+// *
+// * Example:
+// * p {
+// *     .font-size();  // 0 or not given = 16px   based on ration
+// *     .font-size(1); // 1 = 25.888px based on ration
+// *     .font-size(2); // 2 = 41.887px based on ration
+// *     .font-size(3); // 3 = 67.773px based on ration
+// * }
+// *
+// * // Outputs
+// * p {
+// *     font-size: 16px;
+// *     font-size: 1rem;
+// * }
+// */
+
+.font-size(@step : 0; @unit : @modular-scale-unit) {
+  @value : unit(@modular-scale-base-size * pow(@modular-scale-ratio, @step));
+  font-size : unit(@value, px);
+  font-size : unit(@value / @modular-scale-base-size, @unit);
+  }
